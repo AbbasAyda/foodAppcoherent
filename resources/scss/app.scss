@@ -1,4 +1,7 @@
 @import './variables';
+@import '~noty/src/noty.scss';
+@import '~noty/src/themes/mint.scss';
+
 
 body{
     font-family: 'Lato', sans-serif;
@@ -35,4 +38,39 @@ nav li a{
         border-color: $pure;
         color :$pure;
     }
+    &:focus{
+        outline: none;
+    }
+}
+
+.btn-primary{
+    background: $primary;
+    transition: $smooth;
+    &:hover{
+        background: $primary-hover;
+    }
+}
+
+section.cart{
+    background:$second;
+    .amount{
+        color:$primary;
+    }
+}
+
+section.login{
+    background: $second;
+    min-height: calc(100vh-86px);
+
+    a{
+        color: $primary;
+        &:hover{
+            color:$primary-hover;
+        }
+    }
+}
+
+.noty_theme__mint{
+    border-radius: 50px! important;
+    padding-left: 80px! important;
 }
