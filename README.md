@@ -5,13 +5,13 @@
 
 In this project, 
 I have used 
-  - *Nodejs* for backend 
-  - *Express* to structure a web application to handle multiple different http requests at a specific url.
-  - *passport* for register and login route, to authenticate requests, which it does through an extensible set of plugins known as strategies.
-  - *Axios* to send asynchronous HTTP requests to REST endpoints and perform CRUD operations.
-  - *Mongodb* as a database, used for storing sessions, menu, and user 
-  - *Laravel-mix* to compile and minify application's CSS and JavaScript files.
-  - *Ejs* to generate HTML markup with plain JavaScript.
+  - **Nodejs** for backend 
+  - **Expreaa** to structure a web application to handle multiple different http requests at a specific url.
+  - **passport** for register and login route, to authenticate requests, which it does through an extensible set of plugins known as strategies.
+  - **Axios** to send asynchronous HTTP requests to REST endpoints and perform CRUD operations.
+  - **Mongodb** as a database, used for storing sessions, menu, and user 
+  - **Laravel-mix** to compile and minify application's CSS and JavaScript files.
+  - **Ejs** to generate HTML markup with plain JavaScript.
   - The project is not completed
 
 
