@@ -12,7 +12,9 @@ I have used
   - **Mongodb** as a database, used for storing sessions, menu, and user 
   - **Laravel-mix** to compile and minify application's CSS and JavaScript files.
   - **Ejs** to generate HTML markup with plain JavaScript.
-  - The project is not completed
+ 
+
+**The project is not completed**
 
 
 
