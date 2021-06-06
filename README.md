@@ -10,6 +10,7 @@ I have used
   - passport for register and login route, to authenticate requests, which it does through an extensible set of plugins known as strategies.
   - Axios to send asynchronous HTTP requests to REST endpoints and perform CRUD operations.
   - Mongodb as a database, used for storing sessions, menu, and user 
+  - Laravel-mix to compile and minify application's CSS and JavaScript files.
   - The project is not completed
 
 
