@@ -13,9 +13,8 @@ Bootstrap
 Author:Abbas Samiyulla
 
 Purpose:food order demo app
-Deployed on heroku
-Link: https://food-appliaction.herokuapp.com/register
 
+Deployed on heroku link attached ..
 Contact: pslabbas@gmail.com
 
 
